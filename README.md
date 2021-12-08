@@ -1,5 +1,8 @@
 # StyleGAN 2 in PyTorch
 
+This repository was forked from https://github.com/rosinality/stylegan2-pytorch for a class project
+
+
 Implementation of Analyzing and Improving the Image Quality of StyleGAN (https://arxiv.org/abs/1912.04958) in PyTorch
 
 ## Notice
