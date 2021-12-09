@@ -314,7 +314,7 @@ def train(args, loader, generator, discriminator, g_optim, d_optim, g_ema, devic
                         range=(-1, 1),
                     )
 
-            if i % 100 == 0:
+            if i % 1500 == 0:
                 torch.save(
                     {
                         "g": g_module.state_dict(),
